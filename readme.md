@@ -13,7 +13,7 @@ keyboard events, responsive UI design and JavaScript logic.
 
 Add your GitHub Pages URL here:
 
-https://YOUR-USERNAME.github.io/advanced-calculator/
+https://rohit-codec.github.io/advance-calculator/
 
 ---
 
